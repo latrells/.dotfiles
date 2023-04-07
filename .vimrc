@@ -1,9 +1,6 @@
-Latrell Scarborough
-I just followed the instructions. Everything went smoothly. No problems
-
 syntax on
-set ruler
-set autoindent
 set number
-set ignorecase
+set autoindent
+set ruler
 color elflord
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
